@@ -1,0 +1,4 @@
+#functions with no arguments
+def Hello():
+	print("HelloWorld")
+Hello()
